@@ -1,0 +1,12 @@
+# My First Repository
+
+This is my first GitHub repository! 🎉
+
+## Project Overview
+This project demonstrates a basic Python script that prints "Hello, World!" to the console. 
+
+## How to Run
+1. Make sure you have Python installed (version 3.7 or higher).
+2. Run the script:
+   ```bash
+   python main.py
